@@ -1,0 +1,1 @@
+const t=!0;function e(){return{post:{title:"Title for data goes here",content:"Content for data goes here"}}}const r=Object.freeze(Object.defineProperty({__proto__:null,load:e,prerender:!0},Symbol.toStringTag,{value:"Module"}));export{r as _,e as l,t as p};
